@@ -22,15 +22,19 @@ An interactive 3D fantasy observatory built with **C++17 and OpenGL 3.3 Core**. 
 
 ### Central Observatory
 
-The floating hub connects the four worlds around the Atlas's golden rings.
+The floating hub connects four impossible worlds around the Atlas's golden rings.
 
-![Central observatory with floating islands, portals, and the Atlas rings](assets/previews/observatory.png)
+![Central Observatory surrounded by floating islands and golden portals](assets/previews/observatory.png)
 
-### Library of Unwritten Universes
+### Explore the worlds
 
-Floating bookshelves, constellations, and a luminous book surround the miniature universe.
+| Garden of Unborn Stars | Factory of Forgotten Sunsets |
+| --- | --- |
+| ![Glowing tree and flowers in the Garden of Unborn Stars](assets/previews/garden.png) | ![Golden gears of the Sunset Engine](assets/previews/factory.png) |
+| **Library of Unwritten Universes** | **Kingdom Between Seconds** |
+| ![Floating bookshelves and a luminous book in the Library](assets/previews/library.png) | ![Spiraling stairways and suspended crystals in the Kingdom Between Seconds](assets/previews/kingdom.png) |
 
-![Library of Unwritten Universes with floating bookshelves and a glowing book](assets/previews/library.png)
+Click any screenshot to view it at full size. These are captures from the running program.
 
 ---
 
