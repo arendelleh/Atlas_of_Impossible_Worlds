@@ -2,8 +2,16 @@ build/
 local-build/
 out/
 .vs/
+.vscode/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
 *.o
 *.obj
 *.exe
 *.pdb
 *.ilk
+*.log
+*.tga
+.env
+.env.*
