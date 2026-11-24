@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run Atlas",
+      "type": "node-terminal",
+      "request": "launch",
+      "command": "powershell.exe -NoProfile -File ./run.ps1",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}

@@ -54,6 +54,10 @@ Floating bookshelves, constellations, and a luminous book surround the miniature
 - Lighting, twinkling stars, particles, bloom, and tone mapping.
 - Full-screen toggle and TGA screenshot capture.
 
+## Quick launch in VS Code
+
+Press **Ctrl+Shift+B** to run Atlas (builds first when needed), or choose **Run Atlas** in Run and Debug and press **F5**. You can also double-click **Run Atlas.cmd** or type `.\run.ps1` in the project terminal. The initial local build uses MSYS2 UCRT64 and the existing CMake dependency cache. Use the CMake instructions below on a fresh clone.
+
 ## Controls
 
 | Input | Action |
