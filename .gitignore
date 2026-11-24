@@ -1,0 +1,9 @@
+build/
+local-build/
+out/
+.vs/
+*.o
+*.obj
+*.exe
+*.pdb
+*.ilk
