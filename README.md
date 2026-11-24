@@ -1,6 +1,30 @@
-# The Atlas of Impossible Worlds
+<div align="center">
+
+# 🌌 The Atlas of Impossible Worlds
+
+### Four impossible worlds. One interactive observatory.
+
+![C++](https://img.shields.io/badge/C%2B%2B-17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-3.3_Core-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![GLFW](https://img.shields.io/badge/GLFW-3.4-7B61FF?style=for-the-badge)
+![GLM](https://img.shields.io/badge/GLM-1.0.1-4CAF50?style=for-the-badge)
+![CMake](https://img.shields.io/badge/CMake-3.20%2B-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+
+**[Worlds](#worlds) · [Features](#features) · [Controls](#controls) · [Build & Run](#build-and-run-on-windows)**
+
+</div>
+
+---
 
 An interactive 3D fantasy observatory built with **C++17 and OpenGL 3.3 Core**. Explore four imaginary worlds from a central observatory, watch a luminous manta circle the scene, and interact with independently transformed objects.
+
+## Preview
+
+Explore a central fantasy observatory and four distinct environments: the Garden of Unborn Stars, Factory of Forgotten Sunsets, Library of Unwritten Universes, and Kingdom Between Seconds.
+
+*Scene screenshots will be added here after capture from the running application.*
+
+---
 
 ## Worlds
 
