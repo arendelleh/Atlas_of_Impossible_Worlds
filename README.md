@@ -2,7 +2,7 @@
 
 # 🌌 The Atlas of Impossible Worlds
 
-### _An interactive observatory with four fantastical worlds.
+### An interactive observatory with four fantastical worlds.
 _
 ![C++](assets/badges/cpp.svg)
 ![OpenGL](assets/badges/opengl.svg)
