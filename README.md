@@ -1,4 +1,5 @@
 <div align="center">
+
 # 🌌 The Atlas of Impossible Worlds
 
 ### Four impossible worlds. One interactive observatory.
@@ -9,7 +10,7 @@
 ![GLM](assets/badges/glm.svg)
 ![CMake](assets/badges/cmake.svg)
 
-**[Worlds](#worlds) · [Features](#features) · [Controls](#controls) · [Build & Run](#build-and-run-on-windows)**
+**[Preview](#preview) · [Worlds](#worlds) · [Features](#features) · [Controls](#controls) · [Build & Run](#build-and-run-on-windows)**
 
 </div>
 
@@ -21,7 +22,7 @@ An interactive 3D fantasy observatory built with **C++17 and OpenGL 3.3 Core**. 
 
 Explore a central fantasy observatory and four distinct environments: the Garden of Unborn Stars, Factory of Forgotten Sunsets, Library of Unwritten Universes, and Kingdom Between Seconds.
 
-*Scene screenshots will be added here after capture from the running application.*
+**Add your actual scene captures to [`assets/previews/`](assets/previews/).** PNG and JPG are supported. See the [upload guide](assets/previews/README.md) for filenames and how to display them here.
 
 ---
 
