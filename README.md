@@ -1,5 +1,4 @@
 <div align="center">
-
 # 🌌 The Atlas of Impossible Worlds
 
 ### Four impossible worlds. One interactive observatory.
