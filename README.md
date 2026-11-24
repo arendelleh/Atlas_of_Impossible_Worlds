@@ -3,11 +3,11 @@
 
 ### Four impossible worlds. One interactive observatory.
 
-![C++](https://img.shields.io/badge/C%2B%2B-17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-3.3_Core-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
-![GLFW](https://img.shields.io/badge/GLFW-3.4-7B61FF?style=for-the-badge)
-![GLM](https://img.shields.io/badge/GLM-1.0.1-4CAF50?style=for-the-badge)
-![CMake](https://img.shields.io/badge/CMake-3.20%2B-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![C++](assets/badges/cpp.svg)
+![OpenGL](assets/badges/opengl.svg)
+![GLFW](assets/badges/glfw.svg)
+![GLM](assets/badges/glm.svg)
+![CMake](assets/badges/cmake.svg)
 
 **[Worlds](#worlds) · [Features](#features) · [Controls](#controls) · [Build & Run](#build-and-run-on-windows)**
 
